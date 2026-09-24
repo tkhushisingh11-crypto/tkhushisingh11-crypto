@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Khushi 👋
 
-<!--
-**tkhushisingh11-crypto/tkhushisingh11-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student  
+💻 Learning Python and Java  
+🌐 Exploring Web Development  
+🤖 Interested in AI/ML  
+🌱 Learning by building small projects
 
-Here are some ideas to get you started:
+## 🛠️ Skills I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Java
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
+
+## 🚀 Projects
+
+### 🧮 Python Practice
+A collection of beginner Python programs and practice exercises.
+
+### 🎯 Guess the Number
+A beginner Python game using random numbers, loops and conditions.
+
+### 🌸 Interactive Web Page
+A small HTML, CSS and JavaScript project with interactive elements.
+
+## 📚 Currently Learning
+
+- Object-Oriented Programming
+- Data Structures
+- Database Management Systems
+- Software Engineering
+- Computer Organization and Architecture
+
+## 🎯 Goal
+
+To become a strong software developer by learning consistently
+and building real projects.
+
+---
+
+⭐ Thanks for visiting my profile!
+
+
